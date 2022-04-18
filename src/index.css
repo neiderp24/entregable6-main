@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+imags{
+  width: 100%;
+}
+.App{
+  padding: 80%;
+}
+.products-list li{
+  display: flex;
+  margin-bottom: 20px;
+  width: 100%;
+  justify-content: space-between;
+}
+.products-list li img{
+  width: 100px;
+}
